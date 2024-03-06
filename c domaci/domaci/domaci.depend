@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709570696 source:c:\users\win10\desktop\c domaci\domaci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
